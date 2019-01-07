@@ -3,7 +3,7 @@ package baekjoonPractice;
 import java.util.Scanner;
 
 public class Prob_14889 {
-	
+	int test=1;
 	static int result=Integer.MAX_VALUE;
 	public static void min(int i){
 
